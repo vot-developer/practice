@@ -1,4 +1,4 @@
-package org.algorithms.dp.educative;
+package org.algorithms.dp.educative.knapsack;
 
 public class SubsetSum {
     //time - O(2^n), space - O(n)(recursive stack)

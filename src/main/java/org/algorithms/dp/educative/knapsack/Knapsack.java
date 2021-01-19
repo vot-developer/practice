@@ -1,4 +1,4 @@
-package org.algorithms.dp.educative;
+package org.algorithms.dp.educative.knapsack;
 
 /**
  * Find max profit with limited capacity using stuff according them profits and weights

@@ -1,4 +1,4 @@
-package org.algorithms.dp.educative;
+package org.algorithms.dp.educative.knapsack;
 
 import java.util.Arrays;
 
