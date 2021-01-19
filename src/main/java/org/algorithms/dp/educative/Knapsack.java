@@ -1,4 +1,4 @@
-package org.algorithms.dynamic.educative;
+package org.algorithms.dp.educative;
 
 /**
  * Find max profit with limited capacity using stuff according them profits and weights

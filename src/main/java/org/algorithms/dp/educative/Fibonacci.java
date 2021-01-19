@@ -1,4 +1,4 @@
-package org.algorithms.dynamic.educative;
+package org.algorithms.dp.educative;
 
 public class Fibonacci {
 
