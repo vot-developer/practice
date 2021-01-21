@@ -2,7 +2,7 @@ package org.algorithms.dp.educative.fibonacci_numbers;
 
 public class Staircase {
 
-    //time - O(2^{n+l}), space - O(n + l)
+    //time - O(3^{n+l}), space - O(n + l)
     public int naive(int l) {
         return doNaive(new int[]{1, 2, 3,}, l);
     }
@@ -19,7 +19,7 @@ public class Staircase {
         return count;
     }
 
-    //time - O(n*l), space - O(n+l)
+    //time - O(l), space - O(l)
     public int topToDown(int l) {
         return doTopToDown(new Integer[l + 1], new int[]{1, 2, 3,}, l);
     }
