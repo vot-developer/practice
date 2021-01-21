@@ -1,4 +1,4 @@
-package org.algorithms.dp.educative.knapsack;
+package org.algorithms.dp.educative;
 
 public class Fibonacci {
 
