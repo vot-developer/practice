@@ -12,6 +12,7 @@ class FibonacciTest {
     void setUp(){
         fibonacci = new Fibonacci();
     }
+
     //NAIVE
     @Test
     void testNaive1(){
@@ -27,6 +28,7 @@ class FibonacciTest {
     void testNaive3(){
         assertEquals(3, fibonacci.calculateNaive(4));
     }
+
     //Top-Bottom with memorize
     @Test
     void testTopButtom1(){
