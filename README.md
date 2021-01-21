@@ -7,4 +7,7 @@
 
 * [Pattern 2: Unbounded Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/unbounded_knapsack)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack))
+
+* [Pattern 3: Fibonacci Numbers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/fibonacci_numbers)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers))
   
