@@ -27,10 +27,10 @@ public class MinimumCoinChange {
 
     //time - O(n*a), space - O(n*a)
     public int topToDown(int[] nums, int amount) {
-        return topToDown(new Integer[nums.length][amount + 1], nums, amount, 0);
+        return doTopToDown(new Integer[nums.length][amount + 1], nums, amount, 0);
     }
 
-    private int topToDown(Integer[][] cache, int[] nums, int amount, int index) {
+    private int doTopToDown(Integer[][] cache, int[] nums, int amount, int index) {
         if (amount == 0)
             return 0;
 
@@ -42,11 +42,11 @@ public class MinimumCoinChange {
 
         int sum1 = Integer.MAX_VALUE;
         if (amount >= nums[index]) {
-            int result = doNaive(nums, amount - nums[index], index); //add something
+            int result = doTopToDown(cache, nums, amount - nums[index], index); //add something
             if (result < Integer.MAX_VALUE)
                 sum1 = 1 + result;
         }
-        int sum2 = doNaive(nums, amount, index + 1); //add nothing
+        int sum2 = doTopToDown(cache, nums, amount, index + 1); //add nothing
         cache[index][amount] = Math.min(sum1, sum2);
         return cache[index][amount];
     }
