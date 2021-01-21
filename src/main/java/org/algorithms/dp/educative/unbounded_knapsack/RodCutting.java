@@ -29,7 +29,7 @@ public class RodCutting {
             aux[i][0] = 0;
 
         for (int s = 1; s <= length; s++)
-            aux[0][s] = s * prices[0];
+            aux[0][s] = s / lengths[0] * prices[0];
 
         for (int i = 1; i < n; i++)
             for (int s = 1; s <= length; s++) {

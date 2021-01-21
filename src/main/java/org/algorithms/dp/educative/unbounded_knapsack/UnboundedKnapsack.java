@@ -49,7 +49,7 @@ public class UnboundedKnapsack {
             aux[i][0] = 0;
 
         for (int s = 1; s <= capacity; s++)
-            aux[0][s] = profits[0] * s;
+            aux[0][s] = profits[0] * s / weights[0];
 
         int prof1, prof2;
         for (int i = 1; i < n; i++)
@@ -57,7 +57,7 @@ public class UnboundedKnapsack {
                 prof1 = aux[i - 1][s]; //add nothing
                 prof2 = 0;
                 if (s >= weights[i])
-                    prof2 = profits[i] + aux[i - 1][s - weights[i]]; //add something
+                    prof2 = profits[i] + aux[i][s - weights[i]]; //add something
                 aux[i][s] = Math.max(prof1, prof2);
             }
 
