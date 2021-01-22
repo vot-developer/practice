@@ -1,5 +1,8 @@
 package org.algorithms.dp.educative.knapsack;
 
+/*
+Given a set of positive numbers, determine if there exists a subset whose sum is equal to a given number ‘S’.
+ */
 public class SubsetSum {
     //time - O(2^n), space - O(n)(recursive stack)
     public boolean naive(int[] nums, int s) {

@@ -1,8 +1,7 @@
 package org.algorithms.dp.educative.fibonacci_numbers;
 
 /**
- * Use - 1, 3, 4 - for find ways to get n.
- * Count ways.
+ Given a number ‘n’, implement a method to count how many possible ways there are to express ‘n’ as the sum of 1, 3, or 4.
  */
 public class NumberFactors {
 

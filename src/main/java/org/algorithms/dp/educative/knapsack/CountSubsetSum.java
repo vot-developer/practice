@@ -1,5 +1,8 @@
 package org.algorithms.dp.educative.knapsack;
 
+/*
+Given a set of positive numbers, find the total number of subsets whose sum is equal to a given number ‘S’.
+ */
 public class CountSubsetSum {
     //time - O(2^n), space - O(n) (stack)
     public int naive(int[] nums, int sum) {

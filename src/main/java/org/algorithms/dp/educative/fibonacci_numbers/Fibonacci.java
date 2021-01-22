@@ -1,5 +1,11 @@
 package org.algorithms.dp.educative.fibonacci_numbers;
 
+/*
+Write a function to calculate the nth Fibonacci number.
+
+Fibonacci numbers are a series of numbers in which each number is the sum of the two preceding numbers.
+First few Fibonacci numbers are: 0, 1, 1, 2, 3, 5, 8, …
+ */
 public class Fibonacci {
 
     public int calculateNaive(int n) {

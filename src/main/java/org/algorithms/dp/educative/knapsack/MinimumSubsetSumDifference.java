@@ -2,6 +2,9 @@ package org.algorithms.dp.educative.knapsack;
 
 import java.util.Arrays;
 
+/*
+Given a set of positive numbers, partition the set into two subsets with a minimum difference between their subset sums.
+ */
 public class MinimumSubsetSumDifference {
 
     //time - O(2^n), space - O(n) (stack)

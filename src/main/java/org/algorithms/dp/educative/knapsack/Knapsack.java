@@ -1,8 +1,9 @@
 package org.algorithms.dp.educative.knapsack;
 
 /**
- * Find max profit with limited capacity using stuff according them profits and weights
- * (could put in knapsack only one thing by one index)
+ Given the weights and profits of ‘N’ items, we are asked to put these items in a knapsack that has a capacity ‘C’.
+ The goal is to get the maximum profit from the items in the knapsack.
+ Each item can only be selected once, as we don’t have multiple quantities of any item.
  */
 public class Knapsack {
 
