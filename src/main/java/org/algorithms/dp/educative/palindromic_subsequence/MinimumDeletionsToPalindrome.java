@@ -1,5 +1,8 @@
 package org.algorithms.dp.educative.palindromic_subsequence;
 
+/*
+Given a string, find the minimum number of characters that we can remove to make it a palindrome.
+ */
 public class MinimumDeletionsToPalindrome {
 
     //time - O(n^2), space - O(n^2)
