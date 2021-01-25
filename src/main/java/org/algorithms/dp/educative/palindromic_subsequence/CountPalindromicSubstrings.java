@@ -6,7 +6,7 @@ Please note we need to find the total number of substrings and not subsequences.
  */
 public class CountPalindromicSubstrings {
 
-    //time - O(n^2), space - O(n)
+    //time - O(n^2), space - O(n^2)
     public int bottomToUp(String s) {
         int n = s.length();
         int count = 0;
