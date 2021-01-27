@@ -6,7 +6,7 @@
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack))
 
 <details>
-<summary>details</summary>
+<summary>...</summary>
 
 * [0/1 Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/knapsack/Knapsack.java)
 ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack/KnapsackTest.java))
@@ -32,7 +32,7 @@
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack))
 
 <details>
-<summary>details</summary>
+<summary>...</summary>
 
 * [Target Sum](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/unbounded_knapsack/UnboundedKnapsack.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack/UnboundedKnapsackTest.java))
@@ -55,7 +55,7 @@
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers))
 
 <details>
-<summary>details</summary>
+<summary>...</summary>
 
 * [Fibonacci numbers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/fibonacci_numbers/Fibonacci.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers/FibonacciTest.java))
@@ -81,7 +81,7 @@
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/palindromic_subsequence))
 
 <details>
-<summary>details</summary>
+<summary>...</summary>
 
 * [Longest Palindromic Subsequence](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/palindromic_subsequence/LongestPalindromicSubsequence.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/palindromic_subsequence/LongestPalindromicSubsequenceTest.java))
@@ -98,8 +98,13 @@
 * [Palindromic Partitioning](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/palindromic_subsequence/PalindromicPartitioning.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/palindromic_subsequence/PalindromicPartitioningTest.java))
 
+</details>
+
 [Pattern 5: Longest Common Substring](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/longest_common_substring)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/longest_common_substring))
+
+<details>
+<summary>...</summary>
 
 * [Longest Common Substring](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/longest_common_substring/LongestCommonSubstring.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/longest_common_substring/LongestCommonSubstringTest.java))
