@@ -10,7 +10,7 @@ Give three strings ‘m’, ‘n’, and ‘p’, write a method to find out if 
  */
 public class StringsInterleaving {
 
-    //time - O(2^{n1 + n2}), space - O(n1 + n2)
+    //time - O(n1 + n2), space - O(n1 + n2)
     public boolean naive(String s1, String s2, String sum) {
         return doNaive(s1, s2, sum, 0, 0, 0);
     }
@@ -29,7 +29,7 @@ public class StringsInterleaving {
         return false;
     }
 
-    //time - O(n1 * n2), space - O(n1 * n2 * n3)
+    //time - O(n1 + n2), space - O(n1 * n2 * n3)
     public boolean topToDown(String s1, String s2, String sum) {
         return doTopToDown(new HashMap<>(), s1, s2, sum, 0, 0, 0);
     }
