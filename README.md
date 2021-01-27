@@ -5,6 +5,9 @@
 [Pattern 1: 0/1 Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/knapsack)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack))
 
+<details>
+<summary>details</summary>
+
 * [0/1 Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/knapsack/Knapsack.java)
 ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack/KnapsackTest.java))
 
@@ -23,8 +26,13 @@
 * [Target Sum](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/knapsack/TargetSum.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack/TargetSumTest.java))
 
+</details>
+
 [Pattern 2: Unbounded Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/unbounded_knapsack)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack))
+
+<details>
+<summary>details</summary>
 
 * [Target Sum](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/unbounded_knapsack/UnboundedKnapsack.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack/UnboundedKnapsackTest.java))
@@ -41,8 +49,13 @@
 * [Maximum Ribbon Cut](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/unbounded_knapsack/MaximumRibbonCut.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/unbounded_knapsack/MaximumRibbonCutTest.java))
 
+</details>
+
 [Pattern 3: Fibonacci Numbers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/fibonacci_numbers)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers))
+
+<details>
+<summary>details</summary>
 
 * [Fibonacci numbers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/fibonacci_numbers/Fibonacci.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers/FibonacciTest.java))
@@ -62,8 +75,13 @@
 * [House thief](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/fibonacci_numbers/HouseThief.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/fibonacci_numbers/HouseThiefTest.java))
 
+</details>
+
 [Pattern 4: Palindromic Subsequence](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/palindromic_subsequence)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/palindromic_subsequence))
+
+<details>
+<summary>details</summary>
 
 * [Longest Palindromic Subsequence](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/palindromic_subsequence/LongestPalindromicSubsequence.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/palindromic_subsequence/LongestPalindromicSubsequenceTest.java))
@@ -121,3 +139,5 @@
 
 * [Strings Interleaving](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/longest_common_substring/StringsInterleaving.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/longest_common_substring/StringsInterleavingTest.java))
+
+</details>
