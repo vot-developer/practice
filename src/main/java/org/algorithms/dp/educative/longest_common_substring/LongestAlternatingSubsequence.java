@@ -1,5 +1,13 @@
 package org.algorithms.dp.educative.longest_common_substring;
 
+/*
+Given a number sequence, find the length of its Longest Alternating Subsequence (LAS).
+A subsequence is considered alternating if its elements are in alternating order.
+
+A three element sequence (a1, a2, a3) will be an alternating sequence if its elements hold one of the following conditions:
+
+{a1 > a2 < a3 } or { a1 < a2 > a3}.
+ */
 public class LongestAlternatingSubsequence {
 
     //time - O(2^n), space - O(n)
