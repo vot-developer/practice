@@ -1,10 +1,11 @@
 # practice
 
 ### Dynamic Programming Patterns
+<details>
+<summary>...</summary>
 
 [Pattern 1: 0/1 Knapsack](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/knapsack)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/knapsack))
-
 <details>
 <summary>...</summary>
 
@@ -145,4 +146,5 @@
 * [Strings Interleaving](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/dp/educative/longest_common_substring/StringsInterleaving.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/dp/educative/longest_common_substring/StringsInterleavingTest.java))
 
+</details>
 </details>
