@@ -8,6 +8,7 @@ Given a string, find the length of the longest substring in it with no more than
  */
 public class LongestSubstringWithKDistinctCharacters {
 
+    //time - O(n), space - O(n)
     public static int findLength(String str, int k) {
         int start = 0, maxLength = 0;
         Map<Character, Integer> counts = new HashMap<>();
