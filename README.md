@@ -154,3 +154,21 @@
 </details>
 
 ---
+
+### Patterns for Coding Questions
+
+<details>
+<summary>...</summary>
+
+[Pattern 1: Sliding Window](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window))
+<details>
+<summary>...</summary>
+
+* [Maximum Sum Subarray of Size K (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/MaximumSumSubarraySizeK.java)
+([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/MaximumSumSubarraySizeKTest.java))
+
+
+</details>
+
+</details>
