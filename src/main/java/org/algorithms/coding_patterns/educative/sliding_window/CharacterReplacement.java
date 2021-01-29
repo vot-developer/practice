@@ -5,7 +5,7 @@ Given a string with lowercase letters only, if you are allowed to replace no mor
 find the length of the longest substring having the same letters after replacement.
  */
 public class CharacterReplacement {
-
+    //time - O(n), space - O(R)
     public static int findLength(String s, int k) {
         int max = 0, maxRepeat = 0;
         char[] counts = new char[26];
