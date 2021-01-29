@@ -177,6 +177,9 @@
 * [Fruits into Baskets (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/FruitsIntoBaskets.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/FruitsIntoBasketsTest.java))
 
+* [No-repeat Substring (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/NoRepeatSubstring.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/NoRepeatSubstringTest.java))
+
 </details>
 
 </details>
