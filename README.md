@@ -183,6 +183,9 @@
 * [Longest Substring with Same Letters after Replacement (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/CharacterReplacement.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/CharacterReplacementTest.java))
 
+* [Longest Subarray with Ones after Replacement (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/ReplacingOnes.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/ReplacingOnesTest.java))
+
 </details>
 
 </details>
