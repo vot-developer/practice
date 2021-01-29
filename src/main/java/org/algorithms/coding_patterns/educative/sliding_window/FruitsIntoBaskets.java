@@ -1,6 +1,8 @@
 package org.algorithms.coding_patterns.educative.sliding_window;
 
+import java.util.HashMap;
 import java.util.HashSet;
+import java.util.Map;
 import java.util.Set;
 
 /*
@@ -17,11 +19,21 @@ public class FruitsIntoBaskets {
     //time - O(n), space - O(K) -> O(2) -> O(1)
     public static int findLength(char[] arr) {
         int max = Integer.MIN_VALUE;
-        Set<Character> set = new HashSet<>();
+        Map<Character, Integer> map = new HashMap<>();
         for (int start = 0, end = 0; end < arr.length; end++){
-            set.add(arr[end]);
-            while (set.size() > 2)
-                set.remove(arr[start++]);
+            char i = arr[end];
+            if (!map.containsKey(i))
+                map.put(arr[end], 1);
+            else
+                map.put(arr[end], map.get(i) + 1);
+
+            while (map.size() > 2) {
+                char j = arr[start++];
+                if (map.get(j) > 1)
+                    map.put(j, map.get(j) - 1);
+                else if (map.get(j) == 1)
+                    map.remove(j);
+            }
             max = Math.max(end - start + 1, max);
         }
         return max;
