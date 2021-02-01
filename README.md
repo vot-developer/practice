@@ -190,7 +190,11 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/StringPermutationTest.java))
 
 * [String Anagrams (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/StringAnagrams.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/StringAnagramsTest.java))  
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/StringAnagramsTest.java))
+
+* [Smallest Window containing Substring (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/MinimumWindowSubstring.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/MinimumWindowSubstringTest.java))
+
 </details>
 
 </details>
