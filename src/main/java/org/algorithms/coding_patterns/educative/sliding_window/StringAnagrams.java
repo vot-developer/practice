@@ -3,8 +3,12 @@ package org.algorithms.coding_patterns.educative.sliding_window;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Given a string and a pattern, find all anagrams of the pattern in the given string.
+ */
 public class StringAnagrams {
 
+    //time - O(n), space - O(R)
     public static List<Integer> findStringAnagrams(String str, String pattern) {
         List<Integer> resultIndices = new ArrayList<>();
         if (str.length() < pattern.length())
