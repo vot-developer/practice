@@ -9,7 +9,7 @@ Given an array of unsorted numbers, find all unique triplets in it that add up t
  */
 public class TripletSumToZero {
 
-    //time - O(n * log n), space - O(1)
+    //time - O(n^2), space - O(1)
     public static List<List<Integer>> searchTriplets(int[] arr) {
         if (arr.length < 3) return new ArrayList<>();
         Arrays.sort(arr);
