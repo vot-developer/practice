@@ -199,4 +199,14 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/WordConcatenationTest.java))
 </details>
 
+[Pattern 2: Two Pointers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers))
+<details>
+<summary>...</summary>
+
+* [Pair with Target Sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/PairWithTargetSum.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/PairWithTargetSumTest.java))
+
+</details>
+
 </details>
