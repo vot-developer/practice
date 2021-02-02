@@ -1,9 +1,7 @@
 package org.algorithms.coding_patterns.educative.two_pointers;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 /*
 Given an array of sorted numbers and a target sum, find a pair in the array whose sum is equal to the given target.
