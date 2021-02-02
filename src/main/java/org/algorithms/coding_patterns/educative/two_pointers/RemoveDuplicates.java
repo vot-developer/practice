@@ -14,6 +14,7 @@ public class RemoveDuplicates {
         return k;
     }
 
+    //time - O(n), space - O(1)
     public static int removeKey(int[] arr, int key) {
         int k = 0;
         for (int i = 0; i < arr.length; i++)
