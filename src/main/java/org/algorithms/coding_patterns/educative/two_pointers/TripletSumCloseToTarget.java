@@ -8,7 +8,7 @@ whose sum is as close to the target number as possible, return the sum of the tr
 If there are more than one such triplet, return the sum of the triplet with the smallest sum.
  */
 public class TripletSumCloseToTarget {
-    //time - O(n^2), space - O(n)
+    //time - O(n^2), space - O(1)
     public static int searchTriplet(int[] arr, int targetSum) {
         int min = Integer.MAX_VALUE;
         Arrays.sort(arr);
