@@ -207,6 +207,30 @@
 * [Pair with Target Sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/PairWithTargetSum.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/PairWithTargetSumTest.java))
 
+* [Remove Duplicates (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/RemoveDuplicates.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/RemoveDuplicatesTest.java))
+
+* [Squaring a Sorted Array (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/SortedArraySquares.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/SortedArraySquaresTest.java))
+
+* [Triplet Sum to Zero (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/TripletSumToZero.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/TripletSumToZeroTest.java))
+
+* [Triplet Sum Close to Target (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/TripletSumCloseToTarget.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/TripletSumCloseToTargetTest.java))
+
+* [Triplets with Smaller Sum (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/TripletWithSmallerSum.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/TripletWithSmallerSumTest.java))
+
+* [Subarrays with Product Less than a Target (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/SubarrayProductLessThanK.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/SubarrayProductLessThanKTest.java))
+
+* [Dutch National Flag Problem (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/DutchFlag.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/DutchFlagTest.java))
+
+* [Quadruple Sum to Target (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/QuadrupleSumToTarget.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/QuadrupleSumToTargetTest.java))
+
 </details>
 
 </details>
