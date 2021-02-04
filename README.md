@@ -234,6 +234,9 @@
 * [Comparing Strings containing Backspaces (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/BackspaceCompare.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/BackspaceCompareTest.java))
 
+* [Minimum Window Sort (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/ShortestWindowSort.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/ShortestWindowSortTest.java))
+
 </details>
 
 </details>
