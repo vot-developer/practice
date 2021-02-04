@@ -231,6 +231,9 @@
 * [Quadruple Sum to Target (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/QuadrupleSumToTarget.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/QuadrupleSumToTargetTest.java))
 
+* [Comparing Strings containing Backspaces (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers/BackspaceCompare.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers/BackspaceCompareTest.java))
+
 </details>
 
 </details>
