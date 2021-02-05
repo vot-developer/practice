@@ -257,6 +257,9 @@
 * [LinkedList Cycle Length (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleLength.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleLengthTest.java))
 
+* [Start of LinkedList Cycle (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleLength.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleLengthTest.java))
+
 </details>
 
 ---
