@@ -239,4 +239,14 @@
 
 </details>
 
+[Pattern 3: Fast & Slow pointers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers))
+<details>
+<summary>...</summary>
+
+* [LinkedList Cycle (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycle.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleTest.java))
+
+</details>
+
 </details>
