@@ -199,6 +199,8 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/WordConcatenationTest.java))
 </details>
 
+---
+
 [Pattern 2: Two Pointers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_pointers)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_pointers))
 <details>
@@ -239,6 +241,8 @@
 
 </details>
 
+---
+
 [Pattern 3: Fast & Slow pointers](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers))
 <details>
@@ -248,5 +252,7 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/LinkedListCycleTest.java))
 
 </details>
+
+---
 
 </details>
