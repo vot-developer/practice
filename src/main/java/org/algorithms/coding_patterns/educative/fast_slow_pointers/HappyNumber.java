@@ -7,7 +7,7 @@ All other (not-happy) numbers will never reach ‘1’.
 Instead, they will be stuck in a cycle of numbers which does not include ‘1’.
  */
 public class HappyNumber {
-
+    //time - O(log n), space - O(1)
     public static boolean find(int num) {
         int slow = num;
         int fast = num;
