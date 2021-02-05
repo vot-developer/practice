@@ -1,5 +1,8 @@
 package org.algorithms.coding_patterns.educative.fast_slow_pointers;
 
+/*
+Given the head of a Singly LinkedList, write a function to determine if the LinkedList has a cycle in it or not.
+ */
 public class LinkedListCycle {
     //time - O(n), space - O(1)
     public static boolean hasCycle(ListNode head) {
@@ -12,14 +15,5 @@ public class LinkedListCycle {
                 return true; // found the cycle
         }
         return false;
-    }
-}
-
-class ListNode {
-    int value;
-    ListNode next;
-
-    ListNode(int value) {
-        this.value = value;
     }
 }
