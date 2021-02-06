@@ -265,6 +265,10 @@
 
 * [Middle of the LinkedList (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/MiddleOfLinkedList.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/MiddleOfLinkedListTest.java))
+
+* [Palindrome LinkedList (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/PalindromicLinkedList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/fast_slow_pointers/PalindromicLinkedListTest.java))
+
 </details>
 
 ---
