@@ -279,4 +279,16 @@
 
 ---
 
+[Pattern 4: Merge Intervals](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals))
+<details>
+<summary>...</summary>
+
+* [Merge Intervals (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
+
+</details>
+
+---
+
 </details>
