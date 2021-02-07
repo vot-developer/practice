@@ -22,7 +22,7 @@ public class MergeIntervals {
         List<Interval> mergedIntervals = new LinkedList<>();
         Iterator<Interval> it = intervals.iterator();
         Interval intervalOne = it.next();
-        while (it.hasNext()){
+        while (it.hasNext()) {
             Interval intervalTwo = it.next();
             if (intervalOne.end < intervalTwo.start) {
                 mergedIntervals.add(intervalOne);
@@ -43,29 +43,19 @@ public class MergeIntervals {
             return intervals;
 
         Arrays.sort(intervals, Comparator.comparingInt(o -> o[0]));
+        List<int[]> result = new ArrayList<>();
 
-        int startIndex = 0, endIndex = 1;
-        int start = intervals[startIndex][0];
-        int end = intervals[startIndex][1];
-        while (endIndex < intervals.length){
-            if (end < intervals[endIndex][0]){
-                intervals[startIndex][0] = start;
-                intervals[startIndex][1] = end;
-                start = intervals[endIndex][0];
-                end = intervals[endIndex][1];
-                startIndex++;
-                endIndex++;
+        int[] intervalOne = intervals[0];
+        for (int[] intervalTwo : intervals) {
+            if (intervalOne[1] < intervalTwo[0]) {
+                result.add(intervalOne);
+                intervalOne = intervalTwo;
             } else {
-                intervals[startIndex][0] = start;
-                intervals[startIndex][1] = Math.max(
-                        end, intervals[endIndex][1]);
-                end = intervals[startIndex][1];
-                endIndex++;
+                intervalOne[1] = Math.max(intervalOne[1], intervalTwo[1]);
             }
         }
-        intervals[startIndex][0] = start;
-        intervals[startIndex][1] = end;
+        result.add(intervalOne);
 
-        return Arrays.copyOfRange(intervals, 0, startIndex + 1);
+        return result.toArray(new int[result.size()][]);
     }
 }
