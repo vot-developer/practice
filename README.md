@@ -287,6 +287,9 @@
 * [Merge Intervals (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
 
+* [Insert Interval (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
+
 </details>
 
 ---
