@@ -295,6 +295,9 @@
 
 * [Conflicting Appointments (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/ConflictingAppointments.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/ConflictingAppointmentsTest.java))
+
+* [Minimum Meeting Rooms (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MinimumMeetingRooms.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MinimumMeetingRoomsTest.java))
   
 </details>
 
