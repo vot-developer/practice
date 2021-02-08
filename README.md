@@ -301,6 +301,9 @@
 
 * [Maximum CPU Load (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MaximumCPULoad.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MaximumCPULoadTest.java))
+
+* [Employee Free Time (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/EmployeeFreeTime.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/EmployeeFreeTimeTest.java))
   
 </details>
 
