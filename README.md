@@ -287,11 +287,14 @@
 * [Merge Intervals (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
 
-* [Insert Interval (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
+* [Insert Interval (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/InsertInterval.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/InsertIntervalTest.java))
 
-* [Intervals Intersection (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervals.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/MergeIntervalsTest.java))
+* [Intervals Intersection (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/IntervalsIntersection.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/IntervalsIntersectionTest.java))
+
+* [Conflicting Appointments (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/merge_intervals/ConflictingAppointments.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/merge_intervals/ConflictingAppointmentsTest.java))
   
 </details>
 
