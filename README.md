@@ -326,6 +326,9 @@
 * [Find the Duplicate Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindDuplicate.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindDuplicateTest.java))
 
+* [Find all Duplicate Numbers (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindAllDuplicate.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindAllDuplicateTest.java))
+
 </details>
 
 ---
