@@ -309,4 +309,17 @@
 
 ---
 
+[Pattern 5: Cyclic Sort](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort))
+<details>
+<summary>...</summary>
+
+* [Merge Intervals (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/CyclicSort.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/CyclicSortTest.java))
+
+
+</details>
+
+---
+
 </details>
