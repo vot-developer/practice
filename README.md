@@ -334,6 +334,9 @@
 
 * [Find the Smallest Missing Positive Number (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstSmallestMissingPositive.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstSmallestMissingPositiveTest.java))
+
+* [Find the First K Missing Positive Numbers (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstKMissingPositive.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstKMissingPositiveTest.java))
   
 </details>
 
