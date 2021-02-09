@@ -331,6 +331,9 @@
 
 * [Find the Corrupt Pair (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindCorruptNums.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindCorruptNumsTest.java))
+
+* [Find the Smallest Missing Positive Number (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstSmallestMissingPositive.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FirstSmallestMissingPositiveTest.java))
   
 </details>
 
