@@ -342,4 +342,16 @@
 
 ---
 
+[Pattern 6: Reversal of a LinkedList](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist))
+<details>
+<summary>...</summary>
+
+* [Reverse a LinkedList (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedListTest.java))
+  
+</details>
+
+---
+
 </details>
