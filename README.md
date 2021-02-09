@@ -323,6 +323,9 @@
 * [Find all Missing Numbers (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/AllMissingNumbers.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/AllMissingNumbersTest.java))
 
+* [Find the Duplicate Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindDuplicate.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/FindDuplicateTest.java))
+
 </details>
 
 ---
