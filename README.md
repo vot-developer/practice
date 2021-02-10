@@ -355,6 +355,9 @@
 
 * [Reverse every K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElements.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElementsTest.java))
+
+* [Reverse alternating K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElements.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElementsTest.java))
   
 </details>
 
