@@ -349,6 +349,9 @@
 
 * [Reverse a LinkedList (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedList.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedListTest.java))
+
+* [Reverse a Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseSubList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseSubListTest.java))
   
 </details>
 
