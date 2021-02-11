@@ -376,6 +376,9 @@
 
 * [Reverse Level Order Traversal (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ReverseLevelOrderTraversal.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ReverseLevelOrderTraversalTest.java))
+
+* [Zigzag Traversal (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ZigzagTraversal.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ZigzagTraversalTest.java))
   
 </details>
 
