@@ -379,6 +379,12 @@
 
 * [Zigzag Traversal (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ZigzagTraversal.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ZigzagTraversalTest.java))
+
+* [Level Averages in a Binary Tree (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelAverage.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelAverageTest.java))
+
+* [Minimum Depth of a Binary Tree (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/MinimumBinaryTreeDepth.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/MinimumBinaryTreeDepthTest.java))
   
 </details>
 
