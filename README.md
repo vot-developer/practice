@@ -347,20 +347,32 @@
 <details>
 <summary>...</summary>
 
-* [Reverse a LinkedList (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedList.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseLinkedListTest.java))
+* [Reverse a LinkedList (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseLinkedList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseLinkedListTest.java))
 
-* [Reverse a Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseSubList.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseSubListTest.java))
+* [Reverse a Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseSubList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseSubListTest.java))
 
-* [Reverse every K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElements.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElementsTest.java))
+* [Reverse every K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseEveryKElements.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseEveryKElementsTest.java))
 
-* [Reverse alternating K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElements.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/ReverseEveryKElementsTest.java))
+* [Reverse alternating K-element Sub-list (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseEveryKElements.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/ReverseEveryKElementsTest.java))
 
-* [Rotate a LinkedList (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/cyclic_sort/RotateList.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/cyclic_sort/RotateListTest.java))
+* [Rotate a LinkedList (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/RotateList.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/reversal_linkedlist/RotateListTest.java))
+  
+</details>
+
+---
+
+[Pattern 7: Breadth First Search](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search))
+<details>
+<summary>...</summary>
+
+* [Binary Tree Level Order Traversal (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderTraversal.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderTraversalTest.java))
   
 </details>
 
