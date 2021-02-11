@@ -1,6 +1,6 @@
 package org.algorithms.coding_patterns.educative.reversal_linkedlist;
 
-public class ListNode {
+class ListNode {
     int value;
     ListNode next;
 

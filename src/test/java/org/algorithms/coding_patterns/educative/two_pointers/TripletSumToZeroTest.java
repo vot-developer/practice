@@ -20,7 +20,7 @@ class TripletSumToZeroTest {
 
     @Test
     void searchTriplets2() {
-        List<List<Integer>> result = TripletSumToZero.searchTriplets(new int[]{-3, 0, 1, 2, -1, 1, -2});
+        List<List<Integer>> result = TripletSumToZero.searchTriplets(new int[]{-5, 2, -1, -2, 3});
         assertEquals(2, result.size());
         assertArrayEquals(new Integer[]{-5, 2, 3}, result.get(0).toArray());
         assertArrayEquals(new Integer[]{-2, -1, 3}, result.get(1).toArray());

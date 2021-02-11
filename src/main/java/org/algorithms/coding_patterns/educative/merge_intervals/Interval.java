@@ -2,7 +2,7 @@ package org.algorithms.coding_patterns.educative.merge_intervals;
 
 import java.util.Objects;
 
-public class Interval {
+class Interval {
     int start;
     int end;
 
