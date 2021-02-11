@@ -373,6 +373,9 @@
 
 * [Binary Tree Level Order Traversal (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderTraversal.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderTraversalTest.java))
+
+* [Reverse Level Order Traversal (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ReverseLevelOrderTraversal.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ReverseLevelOrderTraversalTest.java))
   
 </details>
 
