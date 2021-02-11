@@ -394,6 +394,9 @@
 
 * [Connect All Level Order Siblings (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ConnectAllSiblings.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ConnectAllSiblingsTest.java))
+
+* [Right View of a Binary Tree (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/RightViewTree.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/RightViewTreeTest.java))
   
 </details>
 
