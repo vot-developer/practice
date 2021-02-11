@@ -388,6 +388,9 @@
 
 * [Level Order Successor (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderSuccessor.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/LevelOrderSuccessorTest.java))
+
+* [Connect Level Order Siblings (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/ConnectLevelOrderSiblings.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/ConnectLevelOrderSiblingsTest.java))
   
 </details>
 
