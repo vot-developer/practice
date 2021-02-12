@@ -409,6 +409,9 @@
 
 * [Binary Tree Path Sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/TreePathSum.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/TreePathSumTest.java))
+
+* [All Paths for a Sum (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/FindAllTreePaths.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/FindAllTreePathsTest.java))
   
 </details>
 
