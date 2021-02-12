@@ -366,7 +366,7 @@
 
 ---
 
-[Pattern 7: Breadth First Search](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search)
+[Pattern 7: Tree Breadth First Search](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search)
 ([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search))
 <details>
 <summary>...</summary>
@@ -397,6 +397,18 @@
 
 * [Right View of a Binary Tree (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/breadth_first_search/RightViewTree.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/RightViewTreeTest.java))
+  
+</details>
+
+---
+
+[Pattern 8: Tree Depth First Search](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search))
+<details>
+<summary>...</summary>
+
+* [Binary Tree Path Sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/TreePathSum.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/breadth_first_search/TreePathSumTest.java))
   
 </details>
 
