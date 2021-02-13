@@ -415,6 +415,9 @@
 
 * [Sum of Path Numbers (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/SumOfPathNumbers.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/SumOfPathNumbersTest.java))
+
+* [Path With Given Sequence (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/PathWithGivenSequence.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/PathWithGivenSequenceTest.java))
   
 </details>
 
