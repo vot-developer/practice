@@ -418,6 +418,9 @@
 
 * [Path With Given Sequence (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/PathWithGivenSequence.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/PathWithGivenSequenceTest.java))
+
+* [Count Paths for a Sum (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/deep_first_search/CountAllPathSum.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/deep_first_search/CountAllPathSumTest.java))
   
 </details>
 
