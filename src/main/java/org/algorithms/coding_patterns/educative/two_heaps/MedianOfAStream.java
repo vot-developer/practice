@@ -15,6 +15,7 @@ public class MedianOfAStream {
     private PriorityQueue<Integer> min = new PriorityQueue<>(Comparator.reverseOrder()); //by max
     private PriorityQueue<Integer> max = new PriorityQueue<>();
 
+    //time - O(log n), space - O(n)
     public void insertNum(int num) {
         max.offer(num);
         min.offer(max.poll());
@@ -22,6 +23,7 @@ public class MedianOfAStream {
             max.offer(min.poll());
     }
 
+    //time - O(log n), space - O(n)
     public double findMedian() {
         if (max.size() > min.size()) return max.peek();
         else return (max.peek() + min.peek()) / 2.0;

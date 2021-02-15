@@ -440,6 +440,8 @@
 * [Find the Median of a Number Stream (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/MedianOfAStream.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/MedianOfAStreamTest.java))
 
+* [Sliding Window Median (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/SlidingWindowMedian.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/SlidingWindowMedianTest.java))
 
 </details>
 
