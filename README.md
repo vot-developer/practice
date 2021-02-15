@@ -432,4 +432,17 @@
 
 ---
 
+[Pattern 9: Two Heaps](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps))
+<details>
+<summary>...</summary>
+
+* [Find the Median of a Number Stream (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/MedianOfAStream.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/MedianOfAStreamTest.java))
+
+
+</details>
+
+---
+
 </details>
