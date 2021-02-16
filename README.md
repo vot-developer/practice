@@ -446,6 +446,9 @@
 * [Maximize Capital (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/MaximizeCapital.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/MaximizeCapitalTest.java))
 
+* [Next Interval (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/NextInterval.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/NextIntervalTest.java))
+  
 </details>
 
 ---
