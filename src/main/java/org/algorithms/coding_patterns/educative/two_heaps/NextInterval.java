@@ -13,7 +13,7 @@ If there is no next interval of a given interval, return -1.
 It is given that none of the intervals have the same start point.
  */
 public class NextInterval {
-
+    //time - O(n log n), space - O(n)
     public static int[] findNextInterval(Interval[] intervals) {
         int[] result = new int[intervals.length];
         PriorityQueue<Integer> startPQ = new PriorityQueue<>(intervals.length,
