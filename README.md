@@ -443,6 +443,9 @@
 * [Sliding Window Median (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/SlidingWindowMedian.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/SlidingWindowMedianTest.java))
 
+* [Maximize Capital (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/two_heaps/MaximizeCapital.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/two_heaps/MaximizeCapitalTest.java))
+
 </details>
 
 ---
