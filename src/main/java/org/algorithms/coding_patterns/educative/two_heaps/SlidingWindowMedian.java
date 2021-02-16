@@ -10,7 +10,7 @@ public class SlidingWindowMedian {
     private PriorityQueue<Integer> min = new PriorityQueue<>(Comparator.reverseOrder()); //ordered by max
     private PriorityQueue<Integer> max = new PriorityQueue<>();
 
-    //time - O(n), space - O(k)
+    //time - O(n log k), space - O(k)
     public double[] findSlidingWindowMedian(int[] nums, int k) {
         double[] result = new double[nums.length - k + 1];
 
