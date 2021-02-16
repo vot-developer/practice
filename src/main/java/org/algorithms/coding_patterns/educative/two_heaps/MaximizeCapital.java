@@ -17,7 +17,7 @@ We can start an investment project only when we have the required capital.
 Once a project is selected, we can assume that its profit has become our capital.
  */
 public class MaximizeCapital {
-
+    //time - O((n + k) * log n), space - O(n)
     public static int findMaximumCapital(int[] capital, int[] profits, int numberOfProjects, int initialCapital) {
         int amount = initialCapital;
 
