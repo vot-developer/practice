@@ -453,4 +453,17 @@
 
 ---
 
+[Pattern 10: Subsets](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets))
+<details>
+<summary>...</summary>
+
+* [Subsets (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/Subsets.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/SubsetsTest.java))
+
+
+</details>
+
+---
+
 </details>
