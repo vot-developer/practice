@@ -464,6 +464,9 @@
 * [Subsets With Duplicates (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/SubsetWithDuplicates.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/SubsetWithDuplicatesTest.java))
 
+* [Permutations (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/Permutations.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/PermutationsTest.java))
+
 </details>
 
 ---
