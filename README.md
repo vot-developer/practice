@@ -472,6 +472,9 @@
 
 * [Balanced Parentheses (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/GenerateParentheses.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/GenerateParenthesesTest.java))
+
+* [Unique Generalized Abbreviations (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/GeneralizedAbbreviation.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/GeneralizedAbbreviationTest.java))
   
 </details>
 
