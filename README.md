@@ -475,6 +475,9 @@
 
 * [Unique Generalized Abbreviations (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/GeneralizedAbbreviation.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/GeneralizedAbbreviationTest.java))
+
+* [Evaluate Expression (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/EvaluateExpression.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/EvaluateExpressionTest.java))
   
 </details>
 
