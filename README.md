@@ -497,6 +497,8 @@
 * [Order-agnostic Binary Search (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/BinarySearch.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/BinarySearchTest.java))
 
+* [Ceiling of a Number (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/CeilingOfANumber.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/CeilingOfANumberTest.java))
 
 </details>
 
