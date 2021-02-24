@@ -489,4 +489,17 @@
 
 ---
 
+[Pattern 11: Modified Binary Search](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search))
+<details>
+<summary>...</summary>
+
+* [Order-agnostic Binary Search (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/BinarySearch.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/BinarySearchTest.java))
+
+
+</details>
+
+---
+
 </details>
