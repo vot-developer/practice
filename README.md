@@ -481,6 +481,9 @@
 
 * [Structurally Unique Binary Search Trees (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/UniqueTrees.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/UniqueTreesTest.java))
+
+* [Count of Structurally Unique Binary Search Trees (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/CountUniqueTrees.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/CountUniqueTreesTest.java))
   
 </details>
 
