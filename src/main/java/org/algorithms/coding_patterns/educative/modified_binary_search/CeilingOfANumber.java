@@ -22,7 +22,7 @@ public class CeilingOfANumber {
             if (arr[mid] == key)
                 return mid;
             else if (arr[mid] > key)
-                end = mid; //! without '-1' - that could be ceil
+                end = mid; //! mid without '-1' - that could be ceil
             else
                 start = mid + 1;
         }
