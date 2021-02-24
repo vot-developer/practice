@@ -478,6 +478,9 @@
 
 * [Evaluate Expression (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/EvaluateExpression.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/EvaluateExpressionTest.java))
+
+* [Structurally Unique Binary Search Trees (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/subsets/UniqueTrees.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/subsets/UniqueTreesTest.java))
   
 </details>
 
