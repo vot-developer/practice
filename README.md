@@ -506,6 +506,9 @@
 * [Number Range (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/FindRange.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/FindRangeTest.java))
 
+* [Search in a Sorted Infinite Array (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchInfiniteSortedArray.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchInfiniteSortedArrayTest.java))
+
 </details>
 
 ---
