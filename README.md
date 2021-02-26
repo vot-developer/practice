@@ -518,6 +518,9 @@
 * [Search Bitonic Array (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchBitonicArray.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchBitonicArrayTest.java))
 
+* [Search in Rotated Array (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchRotatedArray.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/modified_binary_search/SearchRotatedArrayTest.java))
+
 </details>
 
 ---
