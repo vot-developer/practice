@@ -528,4 +528,16 @@
 
 ---
 
+[Pattern 12: Bitwise XOR](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/bitwise_xor)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/bitwise_xor))
+<details>
+<summary>...</summary>
+
+* [Single Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/bitwise_xor/SingleNumber.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/bitwise_xor/SingleNumberTest.java))
+  
+</details>
+
+---
+
 </details>
