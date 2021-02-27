@@ -535,6 +535,9 @@
 
 * [Single Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/bitwise_xor/SingleNumber.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/bitwise_xor/SingleNumberTest.java))
+
+* [Two Single Numbers (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/bitwise_xor/TwoSingleNumbers.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/bitwise_xor/TwoSingleNumbersTest.java))
   
 </details>
 
