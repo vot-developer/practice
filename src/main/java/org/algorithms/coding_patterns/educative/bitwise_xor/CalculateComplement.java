@@ -13,10 +13,14 @@ public class CalculateComplement {
         if (n == 0)
             return 1;
 
-        int allOnes = 1;
-        while (allOnes <= n)
-            allOnes = allOnes << 1; //like allOnes *= 2; for get number like 100...00 more than 'n'
+        int highestBit = 1;
+        while (highestBit <= n)
+            highestBit = highestBit << 1; //like allOnes *= 2; for get number like 100...00 more than 'n'
 
-        return n^(allOnes - 1); //number ^ complement = all_bits_set => number ^ number ^ complement = number ^ all_bits_set
+        return n^(highestBit - 1); //number ^ complement = all_bits_set => number ^ number ^ complement = number ^ all_bits_set
+    }
+
+    public static int bitwiseComplement2(int n) {
+        return ~n + (Integer.highestOneBit(n) << 1);
     }
 }
