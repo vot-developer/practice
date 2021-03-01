@@ -17,7 +17,7 @@ public class ConnectRopes {
         int result = 0, temp;
         while (pq.size() > 1) {
             temp = pq.poll() + pq.poll();
-            result += result + temp;
+            result += temp;
             pq.add(temp);
         }
 
