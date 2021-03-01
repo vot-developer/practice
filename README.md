@@ -549,4 +549,16 @@
 
 ---
 
+[Pattern 13: Top 'K' Elements](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements))
+<details>
+<summary>...</summary>
+
+* [Top 'K' Numbers (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/KLargestNumbers.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/KLargestNumbersTest.java))
+
+</details>
+
+---
+
 </details>
