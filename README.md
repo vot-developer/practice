@@ -568,6 +568,9 @@
 
 * [Top 'K' Frequent Numbers (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/TopKFrequentNumbers.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/TopKFrequentNumbersTest.java))
+
+* [Frequency Sort (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/FrequencySort.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/FrequencySortTest.java))
   
 </details>
 

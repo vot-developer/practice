@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 
 /*
-Given an unsorted array of numbers, find the top ‘K’ frequently occurring numbers in it.
+Given an unsorted array of numbers, find the top 'K' frequently occurring numbers in it.
  */
 public class TopKFrequentNumbers {
     //time - O(n * log k), space - O(k)
