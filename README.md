@@ -565,6 +565,9 @@
 
 * [Connect Ropes (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/ConnectRopes.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/ConnectRopesTest.java))
+
+* [Top 'K' Frequent Numbers (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/TopKFrequentNumbers.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/TopKFrequentNumbersTest.java))
   
 </details>
 
