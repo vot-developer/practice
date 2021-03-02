@@ -571,6 +571,9 @@
 
 * [Frequency Sort (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/FrequencySort.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/FrequencySortTest.java))
+
+* [Kth Largest Number in a Stream (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/KthLargestNumberInStream.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/KthLargestNumberInStreamTest.java))
   
 </details>
 
