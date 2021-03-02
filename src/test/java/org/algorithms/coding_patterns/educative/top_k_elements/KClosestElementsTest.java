@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 class KClosestElementsTest {
 
     @Test
-    void findClosestElements() {
+    void findClosestElements1() {
         List<Integer> result = KClosestElements.findClosestElements(new int[]{5, 6, 7, 8, 9}, 3, 7);
         assertArrayEquals(new Integer[]{6, 7, 8}, result.toArray());
     }
@@ -36,5 +36,11 @@ class KClosestElementsTest {
     void findClosestElements5() {
         List<Integer> result = KClosestElements.findClosestElements(new int[]{3, 5, 8, 10}, 2, 15);
         assertArrayEquals(new Integer[]{8, 10}, result.toArray());
+    }
+
+    @Test
+    void findClosestElements6() {
+        List<Integer> result = KClosestElements.findClosestElements(new int[]{0, 0, 1, 2, 3, 3, 4, 7, 7, 8}, 3, 5);
+        assertArrayEquals(new Integer[]{3, 3, 4}, result.toArray());
     }
 }
