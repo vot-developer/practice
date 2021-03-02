@@ -15,6 +15,7 @@ public class KthLargestNumberInStream {
     private final int k;
     private PriorityQueue<Integer> pq = new PriorityQueue<>();
 
+    //time - O(n * log k), space - O(k)
     public KthLargestNumberInStream(int[] nums, int k) {
         this.k = k;
         for (int i = 0; i < nums.length; i++){
@@ -27,6 +28,7 @@ public class KthLargestNumberInStream {
         }
     }
 
+    //time - O(log k), space - O(k)
     public int add(int num) {
         if (pq.size() < k)
             pq.offer(num);
