@@ -574,7 +574,10 @@
 
 * [Kth Largest Number in a Stream (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/KthLargestNumberInStream.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/KthLargestNumberInStreamTest.java))
-  
+
+* ['K' Closest Numbers (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/KClosestElements.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/KClosestElementsTest.java))
+
 </details>
 
 ---
