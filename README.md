@@ -584,6 +584,9 @@
 * [Sum of Elements (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/SumOfElements.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/SumOfElementsTest.java))
 
+* [Rearrange String (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/top_k_elements/RearrangeString.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/top_k_elements/RearrangeStringTest.java))
+  
 </details>
 
 ---
