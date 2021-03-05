@@ -600,4 +600,17 @@
 
 ---
 
+[Pattern 14: K-way merge](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge))
+<details>
+<summary>...</summary>
+
+* [Single Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/MergeKSortedLists.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/MergeKSortedListsTest.java))
+
+</details>
+
+---
+
+
 </details>
