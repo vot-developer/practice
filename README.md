@@ -605,9 +605,12 @@
 <details>
 <summary>...</summary>
 
-* [Single Number (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/MergeKSortedLists.java)
+* [Merge K Sorted Lists (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/MergeKSortedLists.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/MergeKSortedListsTest.java))
 
+* [Kth Smallest Number in M Sorted Lists (Medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInMSortedArrays.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInMSortedArraysTest.java))
+  
 </details>
 
 ---
