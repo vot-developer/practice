@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /*
-For ‘K’ employees, we are given a list of intervals representing each employee’s working hours.
+For 'K' employees, we are given a list of intervals representing each employee's working hours.
 Our goal is to determine if there is a free interval which is common to all employees.
 You can assume that each list of employee working hours is sorted on the start time.
  */

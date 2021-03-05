@@ -6,7 +6,7 @@ import java.util.Objects;
 import java.util.PriorityQueue;
 
 /*
-Given an array of points in the a 2D plane, find ‘K’ closest points to the origin.
+Given an array of points in the a 2D plane, find 'K' closest points to the origin.
  */
 public class KClosestPointsToOrigin {
     //time - O(n * log k), space - O(k)

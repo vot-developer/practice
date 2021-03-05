@@ -1,7 +1,7 @@
 package org.algorithms.coding_patterns.educative.reversal_linkedlist;
 
 /*
-Given the head of a Singly LinkedList and a number ‘k’, rotate the LinkedList to the right by ‘k’ nodes.
+Given the head of a Singly LinkedList and a number 'k', rotate the LinkedList to the right by 'k' nodes.
  */
 public class RotateList {
     //time - O(n), space - O(1)

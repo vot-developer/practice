@@ -1,7 +1,7 @@
 package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
-Given an array of numbers which is sorted in ascending order and is rotated ‘k’ times around a pivot, find ‘k’.
+Given an array of numbers which is sorted in ascending order and is rotated 'k' times around a pivot, find 'k'.
 
 You can assume that the array does not have any duplicates.
  */

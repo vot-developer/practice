@@ -3,8 +3,8 @@ package org.algorithms.dp.educative.knapsack;
 import java.util.Arrays;
 
 /*
-Given a set of positive numbers (non zero) and a target sum ‘S’. Each number should be assigned either a ‘+’ or ‘-’ sign.
- We need to find out total ways to assign symbols to make the sum of numbers equal to target ‘S’.
+Given a set of positive numbers (non zero) and a target sum 'S'. Each number should be assigned either a '+' or '-' sign.
+ We need to find out total ways to assign symbols to make the sum of numbers equal to target 'S'.
  */
 public class TargetSum {
 

@@ -1,7 +1,7 @@
 package org.algorithms.dp.educative.longest_common_substring;
 
 /*
-Given two strings ‘s1’ and ‘s2’, find the length of the longest subsequence which is common in both the strings.
+Given two strings 's1' and 's2', find the length of the longest subsequence which is common in both the strings.
 
 A subsequence is a sequence that can be derived from another sequence by deleting some or no elements without changing the order of the remaining elements.
  */

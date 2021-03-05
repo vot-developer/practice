@@ -1,10 +1,10 @@
 package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
-Given an array of numbers sorted in an ascending order, find the ceiling of a given number ‘key’.
-The ceiling of the ‘key’ will be the smallest element in the given array greater than or equal to the ‘key’.
+Given an array of numbers sorted in an ascending order, find the ceiling of a given number 'key'.
+The ceiling of the 'key' will be the smallest element in the given array greater than or equal to the 'key'.
 
-Write a function to return the index of the ceiling of the ‘key’. If there isn’t any ceiling return -1.
+Write a function to return the index of the ceiling of the 'key'. If there isn't any ceiling return -1.
  */
 public class CeilingOfANumber {
     //time - O(log n), space - O(1)

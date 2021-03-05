@@ -1,8 +1,8 @@
 package org.algorithms.coding_patterns.educative.subsets;
 
 /*
-Given a number ‘n’, write a function to return the count of structurally unique Binary Search Trees (BST)
-that can store values 1 to ‘n’.
+Given a number 'n', write a function to return the count of structurally unique Binary Search Trees (BST)
+that can store values 1 to 'n'.
  */
 public class CountUniqueTrees {
     //time - O(n^2), space - O(n)

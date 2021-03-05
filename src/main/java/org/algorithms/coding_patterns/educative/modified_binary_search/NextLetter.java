@@ -2,7 +2,7 @@ package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
 Given an array of lowercase letters sorted in ascending order, find the smallest letter in the given array greater
-than a given ‘key’.
+than a given 'key'.
 
 Assume the given array is a circular list, which means that the last letter is assumed to be connected with the first letter.
 This also means that the smallest letter in the given array is greater than the last letter of the array and is also

@@ -1,7 +1,7 @@
 package org.algorithms.coding_patterns.educative.reversal_linkedlist;
 
 /*
-Given the head of a LinkedList and two positions ‘p’ and ‘q’, reverse the LinkedList from position ‘p’ to ‘q’.
+Given the head of a LinkedList and two positions 'p' and 'q', reverse the LinkedList from position 'p' to 'q'.
  */
 public class ReverseSubList {
     //time - O(n), space - O(1)

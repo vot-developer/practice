@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.TreeSet;
 
 /*
-Given an array of numbers and a number ‘k’, find the median of all the ‘k’ sized sub-arrays (or windows) of the array.
+Given an array of numbers and a number 'k', find the median of all the 'k' sized sub-arrays (or windows) of the array.
  */
 public class SlidingWindowMedian {
 

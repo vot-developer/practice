@@ -2,7 +2,7 @@ package org.algorithms.coding_patterns.educative.two_pointers;
 
 /*
 Given an array containing 0s, 1s and 2s, sort the array in-place.
-You should treat numbers of the array as objects, hence, we can’t count 0s, 1s, and 2s to recreate the array.
+You should treat numbers of the array as objects, hence, we can't count 0s, 1s, and 2s to recreate the array.
  */
 public class DutchFlag {
     //pattern - two points, time - O(n), space - O(1)

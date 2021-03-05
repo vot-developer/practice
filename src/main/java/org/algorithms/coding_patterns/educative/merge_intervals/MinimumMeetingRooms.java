@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /*
-Given a list of intervals representing the start and end time of ‘N’ meetings,
+Given a list of intervals representing the start and end time of 'N' meetings,
 find the minimum number of rooms required to hold all the meetings.
  */
 public class MinimumMeetingRooms {

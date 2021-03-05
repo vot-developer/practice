@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 /*
-For a given number ‘N’, write a function to generate all combination of ‘N’ pairs of balanced parentheses.
+For a given number 'N', write a function to generate all combination of 'N' pairs of balanced parentheses.
  */
 public class GenerateParentheses {
     //time - O(n*2^n), space - O(n*2^n)

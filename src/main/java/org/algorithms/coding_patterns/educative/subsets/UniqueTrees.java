@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-Given a number ‘n’, write a function to return all structurally unique Binary Search Trees (BST) that can store values 1 to ‘n’?
+Given a number 'n', write a function to return all structurally unique Binary Search Trees (BST) that can store values 1 to 'n'?
  */
 public class UniqueTrees {
     //time - O(n * 2^n), space - O(n * 2^n)

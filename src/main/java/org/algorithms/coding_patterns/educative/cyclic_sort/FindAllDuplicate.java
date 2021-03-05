@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-We are given an unsorted array containing ‘n’ numbers taken from the range 1 to ‘n’.
+We are given an unsorted array containing 'n' numbers taken from the range 1 to 'n'.
 The array has some numbers appearing twice, find all these duplicate numbers without using any extra space.
  */
 public class FindAllDuplicate {

@@ -1,8 +1,8 @@
 package org.algorithms.dp.educative.unbounded_knapsack;
 
 /*
-Given a rod of length ‘n’, we are asked to cut the rod and sell the pieces in a way that will maximize the profit.
-We are also given the price of every piece of length ‘i’ where ‘1 <= i <= n’.
+Given a rod of length 'n', we are asked to cut the rod and sell the pieces in a way that will maximize the profit.
+We are also given the price of every piece of length 'i' where '1 <= i <= n'.
  */
 public class RodCutting {
 

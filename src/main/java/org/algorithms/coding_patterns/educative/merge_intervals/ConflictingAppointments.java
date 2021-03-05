@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /*
-Given an array of intervals representing ‘N’ appointments, find out if a person can attend all the appointments.
+Given an array of intervals representing 'N' appointments, find out if a person can attend all the appointments.
  */
 public class ConflictingAppointments {
     //time - O(n log n), space - O(1)

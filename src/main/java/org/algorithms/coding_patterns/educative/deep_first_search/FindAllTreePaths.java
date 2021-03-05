@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /*
-Given a binary tree and a number ‘S’,
-find all paths from root-to-leaf such that the sum of all the node values of each path equals ‘S’.
+Given a binary tree and a number 'S',
+find all paths from root-to-leaf such that the sum of all the node values of each path equals 'S'.
  */
 public class FindAllTreePaths {
     //time - O(n^2), space - O(n * log n (h))

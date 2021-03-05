@@ -610,7 +610,9 @@
 
 * [Kth Smallest Number in M Sorted Lists (Medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInMSortedArrays.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInMSortedArraysTest.java))
-  
+
+* [Kth Smallest Number in a Sorted Matrix (Hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInSortedMatrix.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/KthSmallestInSortedMatrixTest.java))  
 </details>
 
 ---

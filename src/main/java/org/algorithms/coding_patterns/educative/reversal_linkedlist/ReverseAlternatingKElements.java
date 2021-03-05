@@ -2,8 +2,8 @@ package org.algorithms.coding_patterns.educative.reversal_linkedlist;
 
 /*
 The problem follows the In-place Reversal of a LinkedList pattern and is quite similar to Reverse every K-element Sub-list.
-The only difference is that we have to skip ‘k’ alternating elements.
-We can follow a similar approach, and in each iteration after reversing ‘k’ elements, we will skip the next ‘k’ elements.
+The only difference is that we have to skip 'k' alternating elements.
+We can follow a similar approach, and in each iteration after reversing 'k' elements, we will skip the next 'k' elements.
  */
 public class ReverseAlternatingKElements {
     //time - O(n), space - O(1)

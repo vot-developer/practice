@@ -1,7 +1,7 @@
 package org.algorithms.dp.educative.unbounded_knapsack;
 
 /*
-Given an infinite supply of ‘n’ coin denominations and a total money amount,
+Given an infinite supply of 'n' coin denominations and a total money amount,
 we are asked to find the total number of distinct ways to make up that amount.
  */
 public class CoinChange {

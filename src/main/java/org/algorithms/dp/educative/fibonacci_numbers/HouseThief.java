@@ -1,8 +1,8 @@
 package org.algorithms.dp.educative.fibonacci_numbers;
 
 /*
-There are ‘n’ houses built in a line. A thief wants to steal maximum possible money from these houses.
-The only restriction the thief has is that he can’t steal from two consecutive houses,
+There are 'n' houses built in a line. A thief wants to steal maximum possible money from these houses.
+The only restriction the thief has is that he can't steal from two consecutive houses,
 as that would alert the security system.
 How should the thief maximize his stealing?
  */

@@ -1,11 +1,11 @@
 package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
-Given a Bitonic array, find if a given ‘key’ is present in it.
+Given a Bitonic array, find if a given 'key' is present in it.
 An array is considered bitonic if it is monotonically increasing and then monotonically decreasing.
 Monotonically increasing or decreasing means that for any index i in the array arr[i] != arr[i+1].
 
-Write a function to return the index of the ‘key’. If the ‘key’ is not present, return -1.
+Write a function to return the index of the 'key'. If the 'key' is not present, return -1.
  */
 public class SearchBitonicArray {
     //time - O(log n), space - O(1)

@@ -1,7 +1,7 @@
 package org.algorithms.coding_patterns.educative.sliding_window;
 
 /*
-Given a string with lowercase letters only, if you are allowed to replace no more than ‘k’ letters with any letter,
+Given a string with lowercase letters only, if you are allowed to replace no more than 'k' letters with any letter,
 find the length of the longest substring having the same letters after replacement.
  */
 public class CharacterReplacement {

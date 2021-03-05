@@ -1,10 +1,10 @@
 package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
-Given an array of numbers sorted in ascending order, find the range of a given number ‘key’.
-The range of the ‘key’ will be the first and last position of the ‘key’ in the array.
+Given an array of numbers sorted in ascending order, find the range of a given number 'key'.
+The range of the 'key' will be the first and last position of the 'key' in the array.
 
-Write a function to return the range of the ‘key’. If the ‘key’ is not present return [-1, -1].
+Write a function to return the range of the 'key'. If the 'key' is not present return [-1, -1].
  */
 public class FindRange {
     //time - O(log n), space - O(1)

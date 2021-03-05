@@ -1,7 +1,7 @@
 package org.algorithms.coding_patterns.educative.modified_binary_search;
 
 /*
-Given an array of numbers sorted in ascending order, find the element in the array that has the minimum difference with the given ‘key’.
+Given an array of numbers sorted in ascending order, find the element in the array that has the minimum difference with the given 'key'.
  */
 public class MinimumDifference {
     //time - O(log n), space - O(1)

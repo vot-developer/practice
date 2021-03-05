@@ -23,18 +23,18 @@ public class KthSmallestInMSortedArrays {
         }
         return -1;
     }
-}
 
-class Entry {
-    int index;
-    int arrayId;
+    private static class Entry {
+        int index;
+        int arrayId;
 
-    public Entry(int arrayId) {
-        this.arrayId = arrayId;
-    }
+        public Entry(int arrayId) {
+            this.arrayId = arrayId;
+        }
 
-    public Entry(int index, int arrayId) {
-        this.index = index;
-        this.arrayId = arrayId;
+        public Entry(int index, int arrayId) {
+            this.index = index;
+            this.arrayId = arrayId;
+        }
     }
 }
