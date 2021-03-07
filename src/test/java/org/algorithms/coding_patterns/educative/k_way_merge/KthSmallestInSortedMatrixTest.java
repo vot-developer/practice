@@ -11,4 +11,10 @@ class KthSmallestInSortedMatrixTest {
         int matrix[][] = { { 2, 6, 8 }, { 3, 7, 10 }, { 5, 8, 11 } };
         assertEquals(7, KthSmallestInSortedMatrix.findKthSmallest(matrix, 5));
     }
+
+    @Test
+    void findThroughBinarySearch() {
+        int matrix[][] = { { 2, 6, 8 }, { 3, 7, 10 }, { 5, 8, 11 } };
+        assertEquals(7, KthSmallestInSortedMatrix.findThroughBinarySearch(matrix, 5));
+    }
 }
