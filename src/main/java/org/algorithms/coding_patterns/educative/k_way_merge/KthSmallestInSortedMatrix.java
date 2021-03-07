@@ -43,7 +43,7 @@ public class KthSmallestInSortedMatrix {
         return count;
     }
 
-    //time - O(k * log n), space - O(n)
+    //time - O(k * log n), space - O(n), (k - runk for find, matrix - n x n)
     public static int findKthSmallest(int[][] matrix, int k) {
         PriorityQueue<Entry> pq = new PriorityQueue<>(Comparator.comparingInt(e -> matrix[e.rowId][e.columnId]));
         for (int i = 0; i < matrix.length; i++)
