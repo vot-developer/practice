@@ -5,7 +5,6 @@ Given an array of positive numbers and a positive number 'S,' find the length of
 whose sum is greater than or equal to 'S'. Return 0 if no such subarray exists.
  */
 public class MinSizeSubArraySum {
-
     //time - O(n), space - O(1)
     public static int findMinSubArray(int S, int[] arr) {
         int min = Integer.MAX_VALUE;
