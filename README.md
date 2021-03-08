@@ -168,8 +168,8 @@
 * [Maximum Sum Subarray of Size K (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/MaximumSumSubarraySizeK.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/MaximumSumSubarraySizeKTest.java))
 
-* [Smallest Subarray with a given sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/SmallestSubarrayWithGivenSum.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/SmallestSubarrayWithGivenSumTest.java))
+* [Smallest Subarray with a given sum (easy)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/MinSizeSubArraySum.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/MinSizeSubArraySumTest.java))
 
 * [Longest Substring with K Distinct Characters (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/sliding_window/LongestSubstringWithKDistinctCharacters.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/sliding_window/LongestSubstringWithKDistinctCharactersTest.java))
