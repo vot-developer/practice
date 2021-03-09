@@ -617,6 +617,9 @@
 * [Smallest Number Range (Hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/SmallestRange.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/SmallestRangeTest.java))  
 
+* [K Pairs with Largest Sums (Hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/k_way_merge/LargestPairs.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/k_way_merge/LargestPairsTest.java))
+  
 </details>
 
 ---
