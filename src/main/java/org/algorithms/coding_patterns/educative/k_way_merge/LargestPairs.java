@@ -10,7 +10,7 @@ import java.util.PriorityQueue;
 Given two sorted arrays in descending order, find 'K' pairs with the largest sum where each pair consists of numbers from both the arrays.
  */
 public class LargestPairs {
-    //time - O(k*log k), space - O(k)
+    //time - O(n*m*log k), space - O(k)
     public static List<List<Integer>> findKLargestPairs(int[] nums1, int[] nums2, int k) {
         List<List<Integer>> result = new ArrayList<>();
         if (nums1.length == 0 || nums2.length == 0 || k == 0)
