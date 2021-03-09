@@ -12,7 +12,7 @@ public class NoRepeatSubstring {
         for (int end = 0; end < str.length(); end++) {
             char c = str.charAt(end);
             if (symbols.containsKey(c))
-                start = Math.max(symbols.get(c) + 1, start);
+                start = Math.max(symbols.get(c) + 1, start); //for don't move back
 
             symbols.put(c, end);
 
