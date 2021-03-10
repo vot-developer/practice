@@ -624,5 +624,17 @@
 
 ---
 
+[Pattern 15: 0/1 Knapsack (Dynamic Programming)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/dp)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/dp))
+<details>
+<summary>...</summary>
+
+* [0/1 Knapsack (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/dp/Knapsack.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/dp/KnapsackTest.java))
+  
+</details>
+
+---
+
 
 </details>
