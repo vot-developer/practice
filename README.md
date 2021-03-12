@@ -624,13 +624,13 @@
 
 ---
 
-[Pattern 15: 0/1 Knapsack (Dynamic Programming)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/dp)
-([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/dp))
+[Pattern 15: Topological Sort (Graph)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort))
 <details>
 <summary>...</summary>
 
-* [0/1 Knapsack (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/dp/Knapsack.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/dp/KnapsackTest.java))
+* [Topological Sort (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/TopologicalSort.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/TopologicalSortTest.java))
   
 </details>
 
