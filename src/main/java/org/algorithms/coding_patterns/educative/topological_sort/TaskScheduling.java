@@ -15,7 +15,7 @@ There are 'N' tasks, labeled from '0' to 'N-1'. Each task can have some prerequi
 public class TaskScheduling {
     //time - O(E+V), space - O(V)
     public static boolean isSchedulingPossible(int tasks, int[][] prerequisites) {
-        List<Integer> topologicalOrder = new ArrayList<>();
+        int countTasks = 0;
         if (tasks <= 0)
             return true;
 
@@ -41,7 +41,7 @@ public class TaskScheduling {
 
         while (!sources.isEmpty()) {
             Integer v = sources.poll();
-            topologicalOrder.add(v);
+            countTasks++;
             for (int w : graph.get(v)) {
                 inDegree.put(w, inDegree.get(w) - 1);
                 if (inDegree.get(w) == 0)
@@ -49,6 +49,6 @@ public class TaskScheduling {
             }
         }
 
-        return topologicalOrder.size() == tasks;
+        return countTasks == tasks;
     }
 }
