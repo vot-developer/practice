@@ -634,6 +634,9 @@
 
 * [Tasks Scheduling (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/TaskScheduling.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/TaskSchedulingTest.java))
+
+* [Tasks Scheduling Order (medium)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/TaskSchedulingOrder.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/TaskSchedulingOrderTest.java))
   
 </details>
 
