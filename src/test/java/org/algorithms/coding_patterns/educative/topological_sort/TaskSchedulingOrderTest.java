@@ -10,6 +10,12 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 class TaskSchedulingOrderTest {
 
     @Test
+    void findOrder0() {
+        List<Integer> result = TaskSchedulingOrder.findOrder(3, new int[][]{new int[]{0, 1}, new int[]{1, 2}});
+        assertArrayEquals(new Integer[]{0, 1, 2}, result.toArray());
+    }
+
+    @Test
     void findOrder1() {
         List<Integer> result = TaskSchedulingOrder.findOrder(3, new int[][]{new int[]{0, 1}, new int[]{1, 2}});
         assertArrayEquals(new Integer[]{0, 1, 2}, result.toArray());
