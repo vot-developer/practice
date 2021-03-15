@@ -15,7 +15,7 @@ Write a method to find the correct order of the alphabets in the alien language.
 a valid dictionary and there exists an ordering among its alphabets.
  */
 public class AlienDictionary {
-    //time - O(V(R) + E), space - O(R)
+    //time - O(M*N + E), space - O(R)
     public static String findOrder(String[] words) {
         Map<Character, Integer> inDegree = new HashMap<>();
         Map<Character, Set<Character>> digraph = new HashMap<>();
