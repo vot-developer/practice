@@ -640,6 +640,9 @@
 
 * [All Tasks Scheduling Orders (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/AllTaskSchedulingOrders.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/AllTaskSchedulingOrdersTest.java))
+
+* [Alien Dictionary (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/AlienDictionary.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/AlienDictionaryTest.java))
   
 </details>
 
