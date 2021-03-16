@@ -646,6 +646,9 @@
 
 * [Reconstructing a Sequence (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/SequenceReconstruction.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/SequenceReconstructionTest.java))
+
+* [Minimum Height Trees (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/MinimumHeightTrees.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/MinimumHeightTreesTest.java))
   
 </details>
 
