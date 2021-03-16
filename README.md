@@ -643,6 +643,9 @@
 
 * [Alien Dictionary (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/AlienDictionary.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/AlienDictionaryTest.java))
+
+* [Reconstructing a Sequence (hard)](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/topological_sort/SequenceReconstruction.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/topological_sort/SequenceReconstructionTest.java))
   
 </details>
 
