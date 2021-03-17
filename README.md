@@ -654,5 +654,21 @@
 
 ---
 
+[Miscellaneous](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous)
+([Tests](https://github.com/vot-developer/practice/tree/main/src/test/java/org/algorithms/coding_patterns/educative/miscellaneous))
+<details>
+<summary>...</summary>
+
+#### Kth Smallest Number (hard)
+
+* [Brute-force](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/BruteForce.java)
+* [Brute-force using Sorting](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/BruteForceSorting.java)
+* [Using Max-Heap](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/MaxHeap.java)
+* [Using Partition Scheme of Quicksort](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/Partition.java)
+* [Using Randomized Partitioning Scheme of Quicksort](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/RandomizedPartition.java)
+* [Using the Median of Medians](https://github.com/vot-developer/practice/tree/main/src/main/java/org/algorithms/coding_patterns/educative/miscellaneous/MedianOfMedians.java)
+
+
+</details>
 
 </details>
