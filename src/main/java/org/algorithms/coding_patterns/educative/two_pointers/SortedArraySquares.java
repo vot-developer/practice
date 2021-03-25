@@ -4,7 +4,7 @@ package org.algorithms.coding_patterns.educative.two_pointers;
 Given a sorted array, create a new array containing squares of all the numbers of the input array in the sorted order.
  */
 public class SortedArraySquares {
-
+    //time - O(n), space - O(n)
     public static int[] makeSquares(int[] arr) {
         int[] squares = new int[arr.length];
         int l = 0, r = arr.length - 1, k = arr.length - 1;

@@ -55,6 +55,6 @@ class EmployeeInterval {
         this.employeeIndex = employeeIndex;
         this.intervalIndex = intervalIndex;
     }
-};
+}
 
 

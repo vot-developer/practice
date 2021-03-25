@@ -20,4 +20,9 @@ class AllMissingNumbersTest {
     void findNumbers3() {
         assertArrayEquals(new Integer[]{4}, AllMissingNumbers.findNumbers(new int[]{2, 3, 2, 1}).toArray());
     }
+
+    @Test
+    void findNumbers4() {
+        assertArrayEquals(new Integer[]{4, 6, 7}, AllMissingNumbers.findNumbers(new int[]{2, 2, 3, 8, 1, 3, 5, 1}).toArray());
+    }
 }
