@@ -30,7 +30,7 @@ public class NextInterval {
             int index = endPQ.poll();
             int end = intervals[index].end;
             while (!startPQ.isEmpty() && intervals[startPQ.peek()].start < end)
-                startPQ.poll();
+                startPQ.poll(); //need closest
 
             if (!startPQ.isEmpty())
                 result[index] = startPQ.poll();
