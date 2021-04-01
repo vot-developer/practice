@@ -7,7 +7,7 @@ import java.util.List;
 Given a string, find all of its permutations preserving the character sequence but changing case.
  */
 public class LetterCaseStringPermutation {
-    //time - O(n*2^n!), space - O(n*2^n!)
+    //time - O(n*2^n), space - O(n*2^n)
     public static List<String> findLetterCaseStringPermutations(String str) {
         List<String> permutations = new ArrayList<>();
         permutations.add(str);

@@ -21,7 +21,7 @@ public class Permutations {
                 int setSize = set.size();
                 for (int j = 0; j <= setSize; j++){
                     List<Integer> perm = new ArrayList<>(set);
-                    perm.add(j, num);
+                    perm.add(j, num); //time - O(n)
                     if (perm.size() == nums.length)
                         result.add(perm);
                     else
