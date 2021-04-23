@@ -7,15 +7,17 @@ Monotonically increasing or decreasing means that for any index i in the array a
  */
 public class MaxInBitonicArray {
     //time - O(log n), space - O(n)
-    public static int findMax(int[] nums) {
-        int start = 0, end = nums.length - 1;
+    public static int findMax(int[] arr) {
+        int start = 0, end = arr.length - 1;
         while (start < end) {
             int mid = start + (end - start) / 2;
-            if (nums[mid] > nums[mid + 1] || nums[mid] < nums[start])
+            if (arr[mid] > arr[mid + 1]) {
                 end = mid;
-            else
+            } else {
                 start = mid + 1;
+            }
         }
-        return nums[start];
+
+        return arr[start];
     }
 }
