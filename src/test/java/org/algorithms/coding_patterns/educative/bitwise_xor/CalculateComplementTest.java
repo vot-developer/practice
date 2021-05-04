@@ -9,7 +9,7 @@ class CalculateComplementTest {
     @Test
     void bitwiseComplement() {
         assertEquals(7, CalculateComplement.bitwiseComplement(8));
-//        assertEquals(5, CalculateComplement.bitwiseComplement(10));
-//        assertEquals(1, CalculateComplement.bitwiseComplement(0));
+        assertEquals(5, CalculateComplement.bitwiseComplement(10));
+        assertEquals(1, CalculateComplement.bitwiseComplement(0));
     }
 }
