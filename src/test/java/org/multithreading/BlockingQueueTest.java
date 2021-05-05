@@ -46,6 +46,10 @@ class BlockingQueueTest {
         t1.start();
         t2.start();
         t2.join();
+
+        assertEquals(5, checkSet.size());
+        assertTrue(checkSet.contains(25));
+
         t3.start();
         t1.join();
         t3.join();
