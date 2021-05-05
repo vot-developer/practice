@@ -1,9 +1,7 @@
 package org.multithreading;
 
-import java.util.HashSet;
-import java.util.Set;
+import java.util.concurrent.ConcurrentHashMap;
 
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -11,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BlockingQueueTest {
     private final BlockingQueue<Integer> blockingQueue = new BlockingQueue<>(5);
-    private final Set<Integer> checkSet = new HashSet<>();
+    private final ConcurrentHashMap<Integer, Object> checkSet = new ConcurrentHashMap<>();
     private Runnable enqueue;
     private Runnable dequeue;
 
@@ -21,7 +19,7 @@ class BlockingQueueTest {
             try {
                 for (int i = 0; i < 50; i++) {
                     blockingQueue.enqueue(i);
-                    checkSet.add(i);
+                    checkSet.put(i, new Object());
                 }
             } catch (InterruptedException ie) {
             }
@@ -47,8 +45,9 @@ class BlockingQueueTest {
         t2.start();
         t2.join();
 
+        Thread.sleep(100);
+
         assertEquals(5, checkSet.size());
-        assertTrue(checkSet.contains(25));
 
         t3.start();
         t1.join();

@@ -21,13 +21,10 @@ public class BlockingQueue<T> {
         try {
             while (size == arr.length)
                 full.await();
-
-            if (head == arr.length - 1) {
-                arr[head] = element;
+            if (head == arr.length)
                 head = 0;
-            } else
-                arr[head++] = element;
 
+            arr[head++] = element;
             size++;
             empty.signal();
         } finally {
@@ -42,12 +39,10 @@ public class BlockingQueue<T> {
                 empty.await();
 
             T result;
-            if (tail == arr.length - 1){
-                result = arr[tail];
+            if (tail == arr.length)
                 tail = 0;
-            } else
-                result = arr[tail++];
 
+            result = arr[tail++];
             size--;
             full.signal();
             return result;
