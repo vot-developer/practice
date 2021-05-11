@@ -11,7 +11,7 @@ class TokenBucketFilterTest {
 
     @BeforeEach
     void setUp() {
-        filter = TokenBucketFilterFactory.createFilter(3);
+        filter = TokenBucketFilterFactory.createFilter(5);
     }
 
     @AfterEach
@@ -21,15 +21,12 @@ class TokenBucketFilterTest {
 
     @Test
     void test() throws InterruptedException {
+        Thread.sleep(5000);
         long start = System.currentTimeMillis();
         Thread thread1 = new Thread(() -> {
-            int k = 10;
+            int k = 5;
             while(k-- > 0){
-                try {
-                    Thread.sleep(100);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
+                filter.getToken();
             }
         });
         Thread thread2 = new Thread(thread1);
@@ -37,7 +34,9 @@ class TokenBucketFilterTest {
         thread2.start();
         thread1.join();
         thread2.join();
-        assertEquals(21, filter.getToken());
-        assertTrue(System.currentTimeMillis() - start / 1000 > 20);
+        assertEquals(11, filter.getToken());
+        long end = System.currentTimeMillis();
+        assertTrue((end - start) / 1000 >= 5);
+        assertTrue((end - start) / 1000 <= 6);
     }
 }

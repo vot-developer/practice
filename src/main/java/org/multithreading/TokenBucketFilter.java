@@ -1,5 +1,6 @@
 package org.multithreading;
 
+import java.time.LocalTime;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
@@ -35,10 +36,14 @@ public class TokenBucketFilter {
                     lastToken++;
                     currentSize++;
                     empty.signal();
-                    Thread.sleep(1000);
                 } catch (InterruptedException e) {
                 } finally {
                     lock.unlock();
+                }
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
                 }
             }
         });
@@ -58,6 +63,7 @@ public class TokenBucketFilter {
         try {
             while (currentSize == 0)
                 empty.await();
+
             result = firstToken++;
             currentSize--;
             full.signal();
