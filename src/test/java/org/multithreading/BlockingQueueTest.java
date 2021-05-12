@@ -45,6 +45,7 @@ class BlockingQueueTest {
         t2.start();
         t2.join();
 
+        Thread.sleep(100);
         assertEquals(5, checkSet.size());
 
         t3.start();
