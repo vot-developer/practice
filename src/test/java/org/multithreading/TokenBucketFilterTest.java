@@ -26,7 +26,7 @@ class TokenBucketFilterTest {
         Thread thread1 = new Thread(() -> {
             int k = 5;
             while(k-- > 0){
-                filter.getToken();
+                System.out.println(Thread.currentThread() + " : " + filter.getToken());
             }
         });
         Thread thread2 = new Thread(thread1);

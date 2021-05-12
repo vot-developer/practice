@@ -36,6 +36,7 @@ public class TokenBucketFilter {
                     lastToken++;
                     currentSize++;
                     empty.signal();
+                    System.out.println("currentSize = " + currentSize);
                 } catch (InterruptedException e) {
                 } finally {
                     lock.unlock();
