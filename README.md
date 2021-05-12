@@ -672,3 +672,23 @@
 </details>
 
 </details>
+
+
+### Multithreading
+
+<details>
+<summary>...</summary>
+
+* [Fizz Buzz](https://github.com/vot-developer/practice/tree/main/src/main/java/org/multithreading/FizzBuzz,java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/FizzBuzzTest.java))
+
+* [Blocking Queue](https://github.com/vot-developer/practice/tree/main/src/main/java/org/multithreading/BlockingQueue,java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/BlockingQueueTest.java))
+
+* [Token Bucket Filter](https://github.com/vot-developer/practice/tree/main/src/main/java/org/multithreading/TokenBucketFilter,java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/TokenBucketFilterTest.java))
+
+* [Deferred Callback Executor](https://github.com/vot-developer/practice/tree/main/src/main/java/org/multithreading/DeferredCallbackExecutor,java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/DeferredCallbackExecutorTest.java))
+
+</details>
