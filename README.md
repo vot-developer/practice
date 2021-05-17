@@ -691,4 +691,10 @@
 * [Deferred Callback Executor](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/DeferredCallbackExecutor.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/DeferredCallbackExecutorTest.java))
 
+* [Counting Semaphore](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/CountingSemaphore.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/CountingSemaphoreTest.java))
+
+* [ReadWrite Lock](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/ReadWriteLock.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/ReadWriteLockTest.java))  
+
 </details>
