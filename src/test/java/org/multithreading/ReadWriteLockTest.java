@@ -31,7 +31,7 @@ class ReadWriteLockTest {
 
         long start = System.currentTimeMillis();
         reader1.start();
-        Thread.sleep(100);
+        Thread.sleep(10);
         writer1.start();
         writer2.start();
         reader2.start();
@@ -40,7 +40,7 @@ class ReadWriteLockTest {
         writer1.join();
         writer2.join();
         long end = System.currentTimeMillis();
-        assertTrue(end - start > 1600); //two reader simultaneously, two writers by one
-        assertTrue(end - start < 1900);
+        assertTrue(end - start > 1500); //two reader simultaneously, two writers by one
+        assertTrue(end - start < 1600);
     }
 }
