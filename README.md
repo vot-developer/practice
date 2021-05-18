@@ -695,6 +695,9 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/CountingSemaphoreTest.java))
 
 * [ReadWrite Lock](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/ReadWriteLock.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/ReadWriteLockTest.java))  
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/ReadWriteLockTest.java))
+
+* [Unisex Bathroom](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/UnisexBathroom.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/UnisexBathroomTest.java))
 
 </details>
