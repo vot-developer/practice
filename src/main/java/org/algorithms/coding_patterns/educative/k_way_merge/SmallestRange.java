@@ -21,7 +21,7 @@ public class SmallestRange {
         int[] result = new int[2];
         while(!pq.isEmpty()){
             Entry e = pq.poll();
-            int val = nums.get(e.listId).get(e.index);
+            int val = e.val;
             if (maxValue - val < minLength){
                 minLength = maxValue - val;
                 result[0] = val;
