@@ -68,6 +68,7 @@ public class UberSeatingProblem {
         if (logCount == 4){
             logCount = 0;
             log.add(logSum);
+            logSum = 0;
         }
         lockLog.unlock();
         System.out.println(Thread.currentThread().getName() + "  seated");

@@ -58,8 +58,10 @@ class UberSeatingProblemTest {
         List<Integer> log = uberSeatingProblem.getLog();
         assertEquals(6, log.size()); //6 cars
         for (int i : log){
-            if (i != 4 && i != 0 && i != -4) //possible cases - all democrats (4), all republicans (-4) or 2 and 2 (0)
+            if (i != 4 && i != 0 && i != -4) { //possible cases - all democrats (4), all republicans (-4) or 2 and 2 (0)
+                System.err.println("logSum = " + i);
                 assertTrue(false);
+            }
         }
     }
 }

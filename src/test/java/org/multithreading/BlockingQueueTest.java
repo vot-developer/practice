@@ -1,6 +1,8 @@
 package org.multithreading;
 
-import java.util.concurrent.ConcurrentHashMap;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -9,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BlockingQueueTest {
     private final BlockingQueue<Integer> blockingQueue = new BlockingQueue<>(5);
-    private final ConcurrentHashMap<Integer, Object> checkSet = new ConcurrentHashMap<>();
+    private final Map<Integer, Object> checkSet = Collections.synchronizedMap(new HashMap());
     private Runnable enqueue;
     private Runnable dequeue;
 
@@ -45,7 +47,6 @@ class BlockingQueueTest {
         t2.start();
         t2.join();
 
-        Thread.sleep(200);
         assertEquals(5, checkSet.size());
 
         t3.start();
