@@ -700,4 +700,7 @@
 * [Unisex Bathroom](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/UnisexBathroom.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/UnisexBathroomTest.java))
 
+* [Barrier](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/Barrier.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/BarrierTest.java))
+  
 </details>
