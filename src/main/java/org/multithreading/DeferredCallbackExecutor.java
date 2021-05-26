@@ -9,6 +9,10 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
+/*
+Design and implement a thread-safe class that allows registeration of callback methods that are executed
+after a user specified time interval in seconds has elapsed.
+ */
 public class DeferredCallbackExecutor {
     private final PriorityQueue<CallBack> pq;
     private final AtomicBoolean isRunning;

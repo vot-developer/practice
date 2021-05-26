@@ -1,5 +1,13 @@
 package org.multithreading;
 
+/*
+A bathroom is being designed for the use of both males and females in an office but requires the following constraints
+to be maintained:
+
+There cannot be men and women in the bathroom at the same time.
+There should never be more than three employees in the bathroom simultaneously.
+The solution should avoid deadlocks. For now, though, don’t worry about starvation.
+ */
 public class UnisexBathroom {
     private final int capacity;
     private final long duration;
@@ -13,7 +21,7 @@ public class UnisexBathroom {
 
     void maleUseBathroom(String name) throws InterruptedException {
         synchronized (this) {
-            while (maleCount > 0 || femaleCount == 3)
+            while (maleCount > 0 || femaleCount == capacity)
                 wait();
             femaleCount++;
         }
@@ -26,7 +34,7 @@ public class UnisexBathroom {
 
     void femaleUseBathroom(String name) throws InterruptedException {
         synchronized (this) {
-            while (maleCount == 3 || femaleCount > 0)
+            while (maleCount == capacity || femaleCount > 0)
                 wait();
             maleCount++;
         }

@@ -1,5 +1,9 @@
 package org.multithreading;
 
+/*
+A barrier can be thought of as a point in the program code, which all or some of the threads need to reach at before
+any one of them is allowed to proceed further.
+ */
 public class Barrier {
     private final int finalCount;
     private int currentCount;
