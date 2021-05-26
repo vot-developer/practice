@@ -2,8 +2,6 @@ package org.multithreading;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.atomic.AtomicBoolean;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.ReentrantLock;
 
 /*
 A barbershop consists of a waiting room with n chairs, and a barber chair for giving haircuts.
@@ -29,24 +27,18 @@ public class BarberShopProblem {
     }
 
     public void customerWalksIn() throws InterruptedException {
-        if (waitCustomer.availablePermits() == chairs){
-            System.out.println("Customer has NOT cut");
+        if (waitCustomer.availablePermits() == chairs)
             return;
-        }
 
         waitCustomer.release();
         barberDoingJob.acquire();
-
-        System.out.println("Customer has cut");
     }
 
     public void barber() throws InterruptedException {
         while (isRunning.get()) {
             waitCustomer.acquire();
-            if (isRunning.get()){
+            if (isRunning.get())
                 hairCut++;
-                System.out.println("Hair cut " + hairCut);
-            }
 
             Thread.sleep(100l);
             barberDoingJob.release();
