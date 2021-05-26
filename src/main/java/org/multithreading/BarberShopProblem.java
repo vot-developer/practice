@@ -2,6 +2,7 @@ package org.multithreading;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.atomic.AtomicBoolean;
+import java.util.concurrent.locks.ReentrantLock;
 
 /*
 A barbershop consists of a waiting room with n chairs, and a barber chair for giving haircuts.
@@ -16,7 +17,9 @@ public class BarberShopProblem {
     private final int chairs;
     private final Semaphore barberDoingJob;
     private final Semaphore waitCustomer;
+    private final ReentrantLock lock;
     private volatile int hairCut;
+    private int waitingCustomers;
 
 
     public BarberShopProblem(int chairs) {
@@ -24,14 +27,24 @@ public class BarberShopProblem {
         this.chairs = chairs;
         this.barberDoingJob = new Semaphore(1);
         this.waitCustomer = new Semaphore(0);
+        this.lock = new ReentrantLock();
     }
 
     public void customerWalksIn() throws InterruptedException {
-        if (waitCustomer.availablePermits() == chairs)
+        lock.lock();
+        if (waitingCustomers == chairs){
+            lock.unlock();
             return;
+        }
+        waitingCustomers++;
+        lock.unlock();
 
         waitCustomer.release();
         barberDoingJob.acquire();
+
+        lock.lock();
+        waitingCustomers--;
+        lock.unlock();
     }
 
     public void barber() throws InterruptedException {
