@@ -51,7 +51,6 @@ class BarberShopProblemTest {
             t.start();
         for (Thread t : set)
             t.join();
-
         barberShopProblem.stop();
         barberThread.join();
         assertEquals(15, barberShopProblem.getHairCut());

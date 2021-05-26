@@ -16,74 +16,50 @@ between the barber and the customers.
 public class BarberShopProblem {
     private final AtomicBoolean isRunning;
     private final int chairs;
-    private final ReentrantLock lock;
-    private final Condition sleep;
     private final Semaphore barberDoingJob;
-    private int waitingCustomers;
-    private int hairCut;
+    private final Semaphore waitCustomer;
+    private volatile int hairCut;
 
 
     public BarberShopProblem(int chairs) {
         this.isRunning = new AtomicBoolean(true);
         this.chairs = chairs;
-        this.lock = new ReentrantLock();
-        this.sleep = lock.newCondition();
         this.barberDoingJob = new Semaphore(1);
+        this.waitCustomer = new Semaphore(0);
     }
 
     public void customerWalksIn() throws InterruptedException {
-        lock.lock();
-        if (waitingCustomers == chairs){
-            lock.unlock();
+        if (waitCustomer.availablePermits() == chairs){
             System.out.println("Customer has NOT cut");
             return;
         }
 
-        if (waitingCustomers == 0)
-            sleep.signal();
-
-        waitingCustomers++;
-        lock.unlock();
-
+        waitCustomer.release();
         barberDoingJob.acquire();
+
         System.out.println("Customer has cut");
     }
 
     public void barber() throws InterruptedException {
         while (isRunning.get()) {
-            lock.lock();
-            while (waitingCustomers == 0 && isRunning.get()) {
-                sleep.await();
-            }
-            if (waitingCustomers > 0){
-                waitingCustomers--;
+            waitCustomer.acquire();
+            if (isRunning.get()){
                 hairCut++;
-                lock.unlock();
-
-                try {
-                    Thread.sleep(100l);
-                } catch (InterruptedException e) {
-                }
                 System.out.println("Hair cut " + hairCut);
-                barberDoingJob.release();
-            } else
-                lock.unlock();
+            }
+
+            Thread.sleep(100l);
+            barberDoingJob.release();
         }
     }
 
     public int getHairCut(){
-        int result;
-        lock.lock();
-        result = hairCut;
-        lock.unlock();
-        return result;
+        return hairCut;
     }
 
     public void stop(){
         isRunning.set(false);
-        lock.lock();
-        sleep.signal();
-        lock.unlock();
+        waitCustomer.release();
     }
 }
 
