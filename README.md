@@ -712,4 +712,6 @@
 * [Barber Shop](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/BarberShopProblem.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/BarberShopProblemTest.java))
 
+* [Superman Problem (Singleton)](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/Superman.java)
+
 </details>
