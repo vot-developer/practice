@@ -8,6 +8,7 @@ First few Fibonacci numbers are: 0, 1, 1, 2, 3, 5, 8, …
  */
 public class Fibonacci {
 
+    //time - O(2^n), space - O(n)
     public int calculateNaive(int n) {
         if (n < 2)
             return n;
@@ -15,6 +16,7 @@ public class Fibonacci {
         return calculateNaive(n - 1) + calculateNaive(n - 2);
     }
 
+    //time - O(n), space - O(n)
     public int calculateTopBottomWithMemorize(int n) {
         int[] memoize = new int[n + 1];
         return doCalculateMemorizeRecursive(n, memoize);
@@ -31,6 +33,7 @@ public class Fibonacci {
         return memorize[n];
     }
 
+    //time - O(n), space - O(n)
     public int calculateDownToUp(int n) {
         if (n < 2)
             return n;
@@ -45,6 +48,7 @@ public class Fibonacci {
         return numbers[n];
     }
 
+    //time - O(n), space - O(1)
     public int calculateDownToUpSpaceImproved(int n) {
         if (n < 2)
             return n;
