@@ -718,4 +718,7 @@
 * [Multithreaded Merge Sort](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/MultiThreadedMergeSort.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/MultiThreadedMergeSortTest.java))
 
+* [Asynchronous to Synchronous Problem](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/AsynchronousSynchronousProblem.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/AsynchronousSynchronousProblemTest.java))
+
 </details>
