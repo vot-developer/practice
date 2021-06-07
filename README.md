@@ -679,9 +679,6 @@
 <details>
 <summary>...</summary>
 
-* [Fizz Buzz](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/FizzBuzz.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/FizzBuzzTest.java))
-
 * [Blocking Queue](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/BlockingQueue.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/BlockingQueueTest.java))
 
@@ -720,5 +717,11 @@
 
 * [Asynchronous to Synchronous Problem](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/AsynchronousSynchronousProblem.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/AsynchronousSynchronousProblemTest.java))
+
+* [Build a Molecule](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/H2OMachine.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/H2OMachineTest.java))
+
+* [Fizz Buzz](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/FizzBuzz.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/FizzBuzzTest.java))
 
 </details>
