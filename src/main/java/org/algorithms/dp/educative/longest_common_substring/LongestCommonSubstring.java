@@ -11,7 +11,7 @@ public class LongestCommonSubstring {
     }
 
     private int doNaive(String s1, String s2, int i1, int i2, int count) {
-        if (i1 >= s1.length() || i2 >= s2.length())
+        if (i1 == s1.length() || i2 == s2.length())
             return count;
 
         if (s1.charAt(i1) == s2.charAt(i2))

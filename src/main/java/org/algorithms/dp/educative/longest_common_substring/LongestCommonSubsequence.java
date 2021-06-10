@@ -25,7 +25,7 @@ public class LongestCommonSubsequence {
         );
     }
 
-    //time - O({n1 + n2}^2), space - O({n1 + n2}^2)
+    //time - O(n1 * n2), space - O(n1 * n2)
     public int topToDown(String s1, String s2) {
         return doTopToDown(new Integer[s1.length()][s2.length()], s1, s2, 0, 0);
     }
@@ -49,7 +49,7 @@ public class LongestCommonSubsequence {
         return dp[i1][i2];
     }
 
-    //time - O({n1 + n2}^2), space - O({n1 + n2}^2)
+    //time - O(n1 * n2), space - O(n1 * n2)
     public int bottomToUp(String s1, String s2) {
         int[][] dp = new int[s1.length() + 1][s2.length() + 1];
 
