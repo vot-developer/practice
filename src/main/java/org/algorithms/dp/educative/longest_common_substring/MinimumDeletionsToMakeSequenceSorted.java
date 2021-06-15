@@ -7,18 +7,18 @@ public class MinimumDeletionsToMakeSequenceSorted {
 
     //time - O(2^n) space - O(n)
     public int naive(int[] nums){
-        return nums.length - doNaive(nums, 0, -1);
+        return nums.length - doNaive(nums, 0, Integer.MIN_VALUE);
     }
 
-    private int doNaive(int[] nums, int index, int prevIndex) {
+    private int doNaive(int[] nums, int index, int prev) {
         if (index == nums.length)
             return 0;
 
         int count1 = 0;
-        if (prevIndex == -1 || nums[index] > nums[prevIndex])
-            count1 = 1 + doNaive(nums, index + 1, index);
+        if (nums[index] > prev)
+            count1 = 1 + doNaive(nums, index + 1, nums[index]);
 
-        int count2 = doNaive(nums, index + 1, prevIndex);
+        int count2 = doNaive(nums, index + 1, prev);
         return Math.max(count1, count2);
     }
 
