@@ -44,11 +44,12 @@ public class MaximumSumIncreasingSubsequence {
     public int bottomToUp(int[] nums) {
         int n = nums.length;
         int[] dp = new int[n];
-        int max = 0;
+        int max = Integer.MIN_VALUE;
 
-        for (int i = 0 ; i < n; i++){
-            for (int j = 0; j < n; j++){
-                if (nums[j] < nums[i] && dp[j] + nums[i] > dp[i]) {
+        for (int i = 0; i < n; i++){
+            dp[i] = nums[i];
+            for (int j = 0; j < i; j++){
+                if (nums[j] < nums[i] && dp[j] + nums[i] > dp[i]) { //for don't include negative or smaller values
                     dp[i] = dp[j] + nums[i];
                 }
                 max = Math.max(dp[i], max);
