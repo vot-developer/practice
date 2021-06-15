@@ -47,7 +47,7 @@ public class MaximumSumIncreasingSubsequence {
         int max = 0;
 
         for (int i = 0 ; i < n; i++){
-            for (int j = 0; j < i; j++){
+            for (int j = 0; j < n; j++){
                 if (nums[j] < nums[i] && dp[j] + nums[i] > dp[i]) {
                     dp[i] = dp[j] + nums[i];
                 }
