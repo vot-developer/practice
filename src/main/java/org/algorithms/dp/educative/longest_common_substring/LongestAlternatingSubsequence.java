@@ -34,7 +34,7 @@ public class LongestAlternatingSubsequence {
         return Math.max(count, doNaive(nums, i + 1, prev, isNeedIncrease)); //skip current
     }
 
-    //time - O(2^n), space - O(n^2)
+    //time - O(n^2), space - O(n^2)
     public int topToDown(int[] nums) {
         return Math.max(
                 doTopToDown(new Integer[nums.length][nums.length][2], nums, 0, -1, false),
@@ -65,7 +65,7 @@ public class LongestAlternatingSubsequence {
         return dp[i][prev][b];
     }
 
-    //time - O(2^n), space - O(n^2)
+    //time - O(n^2), space - O(n^2)
     public int bottomToUp(int[] nums) {
         if (nums.length == 0) return 0;
         int[][] dp = new int[nums.length][2];
