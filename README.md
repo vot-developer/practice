@@ -673,6 +673,7 @@
 
 </details>
 
+---
 
 ### Multithreading
 
@@ -725,3 +726,4 @@
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/FizzBuzzTest.java))
 
 </details>
+
