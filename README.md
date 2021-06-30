@@ -704,8 +704,8 @@
 * [Uber Ride Problem](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/UberSeatingProblem.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/UberSeatingProblemTest.java))
 
-* [Dining Philosophers](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/UberSeatingProblem.java)
-  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/UberSeatingProblemTest.java))
+* [Dining Philosophers](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/DiningPhilosophers.java)
+  ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/DiningPhilosophersTest.java))
 
 * [Barber Shop](https://github.com/vot-developer/practice/blob/main/src/main/java/org/multithreading/BarberShopProblem.java)
   ([Test](https://github.com/vot-developer/practice/tree/main/src/test/java/org/multithreading/BarberShopProblemTest.java))
